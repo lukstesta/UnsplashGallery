@@ -1,0 +1,10 @@
+*.DS_Store
+*.dSYM.zip
+UnsplashGallery/Configuration/GalleryConfiguration.swift
+*.xcworkspace/xcuserdata/
+*/xcuserdata/*
+*.xcuserdatad/
+*.xcuserstate/
+firebase-debug.log
+*.scannerwork
+*.orig
